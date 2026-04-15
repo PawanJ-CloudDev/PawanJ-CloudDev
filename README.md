@@ -1,4 +1,21 @@
+# 💫 Hi 👋, I'm Pawan Jaiswal
 
+**Cloud Engineer | Backend Developer | Data Migration | SQL | Python | PySpark 🇮🇳**
+
+📧 Reach me at **pawan.jaiswal.dev@gmail.com** for collaboration, projects, or anything tech!
+
+---
+
+- 🔭 **Currently working on:** An Employee Chat & Call System — built with **Node.js**, **Express**, **React**, **Docker**, **PostgreSQL** & **JWT**
+- 🌱 **Currently learning:** Docker & containerization, Node.js backend development & advanced SQL — transitioning from a strong data migration background
+- 👯 **Looking to collaborate on:** Cloud migration projects
+- 💬 **Ask me about:** Data migration, SQL, Python, PySpark, backend systems & cloud infrastructure
+- 📫 **How to reach me:** pawan.jaiswal.dev@gmail.com
+- ⚡ **Fun fact:** Started my journey migrating data — now I'm migrating entire systems to the cloud!
+
+---
+
+> *"From data migration to cloud engineering — always evolving, always building."* 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/pawan-jaiswal-054441279) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pawanj33_pawan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawan.jaiswal.dev@gmail.com) 
 
