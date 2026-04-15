@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Pawan Jaiswal
 
-**Cloud Engineer | Backend Developer | Data Migration | SQL | Python | PySpark 🇮🇳**
+**Cloud Engineer | Backend Developer | Data Migration | SQL | Python | PySpark**
 
 📧 Reach me at **pawan.jaiswal.dev@gmail.com** for collaboration, projects, or anything tech!
 
